@@ -23,7 +23,7 @@ struct ContentView: View {
             VStack {
                 Spacer()
                 
-                Text("Build Photo Gallery in SwiftUI Course at DevTechie.com")
+                Text("Main content goes here... You gotta implement it!")
                     .font(.largeTitle)
                     .foregroundColor(.init(uiColor: .darkText))
                     .padding()
